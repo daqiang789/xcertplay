@@ -7,7 +7,7 @@
 
 ## Features
 
-- CarPlay host applications for Android and Android Automotive OS.
+- CarPlay host applications for Android and Android Automotive OS..
 - Support for MFI chips connected through a CH341 bridge or native
   `/dev/i2c-N` devices, and Remote MFI authentication (see the API below).
 - Wired and wireless CarPlay connections.
